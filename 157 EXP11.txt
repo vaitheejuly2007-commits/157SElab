@@ -1,0 +1,14 @@
+USECASE DIAGRAM
+https://drive.google.com/file/d/1ChzmZTkk54gH-VeRLQmuaOiu1tHnEVJQ/view?usp=sharing
+
+ACTIVITY DIAGRAM
+https://drive.google.com/file/d/1p02VsCSTaDyYontR6whq4H42D5BARXA1/view?usp=sharing
+
+CLASS DIAGRAM
+https://drive.google.com/file/d/1ZenS2-11_GfA1B9ejZBXP0b8ErR9XcEn/view?usp=sharing
+
+SEQUENCE DIAGRAM
+https://drive.google.com/file/d/1F8dczIQQLp26nSJlRrhysw6OwzXYZUM0/view?usp=sharing
+
+COMPONENT DIAGRAM
+https://drive.google.com/file/d/1n-Ujp5vcELrtYca3YmUd4TvWiTc11k3F/view?usp=sharing
